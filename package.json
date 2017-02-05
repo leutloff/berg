@@ -30,7 +30,7 @@
     "wdio-dot-reporter": "^0.0.6",
     "wdio-mocha-framework": "^0.4.3",
     "wdio-sauce-service": "^0.2.5",
-    "wdio-selenium-standalone-service": "^0.0.7",
+    "wdio-selenium-standalone-service": "^0.0.8",
     "webdriverio": "^4.2.16"
   },
   "scripts": {
