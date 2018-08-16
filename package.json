@@ -8,7 +8,7 @@
     "Edit",
     "Newsletter"
   ],
-  "version": "0.0.10",
+  "version": "0.0.11",
   "license": "(MIT, AGPL)",
   "private": true,
   "author": "Christian Leutloff <leutloff@sundancer.oche.de>",
@@ -17,7 +17,7 @@
     "Christian Leutloff <leutloff@sundancer.oche.de>"
   ],
   "dependencies": {
-    "jquery": "^3.2.1"
+    "jquery": "^3.3.1"
   },
   "devDependencies": {
     "chai": "^4.1.2",
@@ -25,13 +25,13 @@
     "eslint": "^5.3.0",
     "fibers": "^3.0.0",
     "mocha": "^5.2.0",
-    "saucelabs": "^1.4.0",
-    "selenium-standalone": "^6.1.0",
+    "saucelabs": "^1.5.0",
+    "selenium-standalone": "^6.15.1",
     "wdio-dot-reporter": "^0.0.10",
     "wdio-mocha-framework": "^0.6.2",
     "wdio-sauce-service": "^0.4.10",
     "wdio-selenium-standalone-service": "^0.0.10",
-    "webdriverio": "^4.6.2"
+    "webdriverio": "^4.13.1"
   },
   "scripts": {
     "postinstall": "./node_modules/selenium-standalone/bin/selenium-standalone install",
